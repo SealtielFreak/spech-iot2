@@ -16,7 +16,7 @@ DEBUG_MODE = False
 DEFAULT_LANGUAGE = 'es-MX'
 
 MODEL_ENGINE_OPENAIN = "text-davinci-003"
-API_KEY_OPENAIN = "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"
+API_KEY_OPENAIN = ""
 
 pretty.install()
 
